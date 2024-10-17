@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AF24F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi+there%2C+I'm+Andrey;Python+Backend+Developer" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AF24F7&repeat=false&width=435&lines=Hi+there%2C+I'm+Andrey.+Python+Backend+Developer.)](https://git.io/typing-svg)
 
 
 <!--
