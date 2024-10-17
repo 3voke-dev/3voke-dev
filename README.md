@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2336BCF7&repeat=false&width=435&lines=Hi+there%2C+I'm+Andrey.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=346CBCF7&repeat=false&width=435&lines=Hi+there%2C+I'm+Andrey.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=346CBCF7&repeat=false&width=435&lines=Python+Backend+Developer.)](https://git.io/typing-svg)
 
 
