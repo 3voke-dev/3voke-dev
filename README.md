@@ -15,9 +15,9 @@
 
 • Bots: Aiogram
 
-🌱 I am constantly learning new technologies and development methods to improve my skills. You will find several of my small projects in my repository.
+## 🌱 I am constantly learning new technologies and development methods to improve my skills. You will find several of my small projects in my repository.
 
-🤝 Open to collaboration and always happy with new ideas! Let's create innovative solutions together!
+# 🤝 Open to collaboration and always happy with new ideas! Let's create innovative solutions together!
 
 <!--
 **3voke-dev/3voke-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
