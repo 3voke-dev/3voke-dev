@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Backend+developer+from+Kazakhstan+🇰🇿)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Backend+Developer)](https://git.io/typing-svg)
 
 
 
