@@ -1,7 +1,7 @@
 # Hi! I'm [Andrey](https://t.me/glush_33)
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7F7&width=435&lines=Python+Backend+Developer)](https://git.io/typing-svg)
 
-##💻 My experience includes:
+### 💻 My experience includes:
 
 • Programming languages: Python
 
