@@ -1,5 +1,6 @@
 # <h1 align="center">Hi! I'm <a href="https://t.me/glush_33" target="_blank">Andrey</a> 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7F7&width=435&lines=Python+Backend+Developer)](https://git.io/typing-svg)
+## <h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7F7&width=435&lines=Python+Backend+Developer)](https://git.io/typing-svg)</a> 
+
 
 ### 💻 My experience includes:
 
