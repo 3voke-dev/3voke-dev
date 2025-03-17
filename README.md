@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hey there, I'm Andrey
+#### Backend Developer | Tech Explorer | Problem Solver
 
-<!--
-**3voke-dev/3voke-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **What I Work With:**
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django, Flask, Django REST Framework
+- **Databases:** PostgreSQL, SQLite
+- **Tools:** Docker, Git, Aiogram
+- **Frontend:** HTML, CSS, Bootstrap
 
-Here are some ideas to get you started:
+🚀 **What Drives Me:**
+I love building backend systems that are efficient, scalable, and easy to maintain. Always exploring new technologies to stay ahead.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 **Let’s Build Something Cool:**
+Open to collaboration and new challenges. Reach out if you have an exciting project!
+
+📫 **Connect:** [Telegram](https://t.me/glush_33)
