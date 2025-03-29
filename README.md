@@ -1,5 +1,5 @@
 ### 👋 Hey there, I'm Andrey
-#### Backend Developer | Tech Explorer | Problem Solver
+#### Fullstack Developer | Tech Explorer | Problem Solver
 
 💻 **What I Work With:**
 - **Languages:** Python, JavaScript
