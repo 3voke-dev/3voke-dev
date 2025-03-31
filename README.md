@@ -4,7 +4,7 @@
 💻 **What I Work With:**
 - **Languages:** Python, JavaScript
 - **Frameworks:** Django, Flask, Django REST Framework
-- **Databases:** PostgreSQL, SQLite
+- **Databases:** PostgreSQL, SQLite, Redis
 - **Tools:** Docker, Git, Aiogram
 - **Frontend:** HTML, CSS, Bootstrap
 
